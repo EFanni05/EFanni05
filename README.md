@@ -1,4 +1,4 @@
-<h4>Hi, I'm Fanni and welcome to my quite borring repos</h4>
+<h4>Hi, I'm Fanni and welcome to my repos <i>mainly school stuff</i></h4>
 
 <p>This is my 5th year studing computer sience finally on University level</p>
 <p>Last year i finised software developer and tester technican <i>2023-2024</i> and now I'm studing Computer Sience Bsc <i>2024-</i></p>
