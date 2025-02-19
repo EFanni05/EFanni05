@@ -1,6 +1,6 @@
 #### Hi, I'm Fanni and welcome to my repos! *mainly school stuff*
 
-This is my 6th year studying computer science <br \>
+This is my 6th year studying computer science <br>
 Last year I finished Software Developer and Tester Technician *2023-2024* and now I'm studying Computer Science BSc *2024-*
 
 ---
